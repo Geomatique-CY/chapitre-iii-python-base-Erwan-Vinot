@@ -1,0 +1,19 @@
+{
+    "SERVICE":"WMS",
+    "VERSION":"1.3.0",
+    "REQUEST":"GetPrint",
+    "FORMAT":"pdf",
+    "EXCEPTIONS":"application/vnd.ogc.se_inimage",
+    "TRANSPARENT":"true",
+    "SRS":"EPSG:2154",
+    "DPI":"100",
+    "TEMPLATE":"Traitement Secteurs",
+    "map0:extent":"872109.171227,6682282.548269,1005777.477252,6778195.691341",
+    "map0:scale":"550000",
+    "map0:LAYERS":"hs_2,trait_sec,hs_1,Observations_secteurs",
+    "map0:STYLES":"défaut,défaut,défaut,défaut",
+    "LAYERS":"hs_2,trait_sec,hs_1,Observations_secteurs",
+    "STYLES":"défaut,défaut,défaut,défaut",
+    "OPACITIES":"255,255,255,255",
+    "Titre Carte":"Interventions en cours sur le réseau secondaire du département (Réseau N3)</b>\"><b style=\"font-family:'Bitstream Vera Sans'; font-size:15\">Interventions en cours sur le réseau secondaire du département (Réseau N3)</b>"
+  }

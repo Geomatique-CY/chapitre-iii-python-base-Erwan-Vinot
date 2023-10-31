@@ -1,0 +1,18 @@
+{
+    "SERVICE":"WMS",
+    "VERSION":"1.3.0",
+    "REQUEST":"GetPrint",
+    "FORMAT":"pdf",
+    "EXCEPTIONS":"application/vnd.ogc.se_inimage",
+    "TRANSPARENT":"true",
+    "SRS":"EPSG:2154",
+    "DPI":"100",
+    "TEMPLATE":"Tableau des observations",
+    "map0:extent":"910545.662088,6725626.427647,914131.398922,6729201.971476",
+    "map0:scale":"550000",
+    "map0:LAYERS":"hs_2",
+    "map0:STYLES":"défaut",
+    "LAYERS":"hs_2",
+    "STYLES":"défaut",
+    "OPACITIES":"255"
+  }
